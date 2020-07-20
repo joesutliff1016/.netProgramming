@@ -1,0 +1,31 @@
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe.config
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Properties.Resources.resources
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.GenerateResource.Cache
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.pdb
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Form1.resources
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.exe
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.pdb
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddProduct.resources
+C:\Users\kris\Desktop\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddCustomer.resources
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe.config
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.exe
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.pdb
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe.config
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.exe
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.pdb
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.exe
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\bin\Debug\CustomerManagementSystem.pdb
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csprojResolveAssemblyReference.cache
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Form1.resources
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddCustomer.resources
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddProduct.resources
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Properties.Resources.resources
+F:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.GenerateResource.Cache
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csprojResolveAssemblyReference.cache
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Form1.resources
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddCustomer.resources
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.frmAddProduct.resources
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.Properties.Resources.resources
+J:\.Net Programming\CustomerManagementSystem\CustomerManagementSystem\obj\Debug\CustomerManagementSystem.csproj.GenerateResource.Cache

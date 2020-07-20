@@ -1,0 +1,18 @@
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csprojResolveAssemblyReference.cache
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Form1.resources
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Properties.Resources.resources
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.GenerateResource.Cache
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+C:\Users\kris\Desktop\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.pdb
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.pdb
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csprojResolveAssemblyReference.cache
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Form1.resources
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Properties.Resources.resources
+J:\.Net Programming\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.GenerateResource.Cache

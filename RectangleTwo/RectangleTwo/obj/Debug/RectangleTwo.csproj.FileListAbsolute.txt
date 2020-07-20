@@ -1,0 +1,9 @@
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\bin\Debug\RectangleTwo.exe.config
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\bin\Debug\RectangleTwo.exe
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\bin\Debug\RectangleTwo.pdb
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.Form1.resources
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.Properties.Resources.resources
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.csproj.GenerateResource.Cache
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.exe
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.pdb
+C:\Users\kris\Desktop\RectangleTwo\RectangleTwo\obj\Debug\RectangleTwo.csprojResolveAssemblyReference.cache

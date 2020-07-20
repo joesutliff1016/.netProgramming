@@ -1,0 +1,13 @@
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\bin\Debug\TestScoreData.exe.config
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\bin\Debug\TestScoreData.exe
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\bin\Debug\TestScoreData.pdb
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.csprojResolveAssemblyReference.cache
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.Properties.Resources.resources
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.csproj.GenerateResource.Cache
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.exe
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.pdb
+C:\Users\kris\Desktop\TestScoreData\TestScoreData\obj\Debug\TestScoreData.scoreCalculator.resources
+J:\.Net Programming\TestScoreData\TestScoreData\bin\Debug\TestScoreData.exe.config
+J:\.Net Programming\TestScoreData\TestScoreData\obj\Debug\TestScoreData.exe
+J:\.Net Programming\TestScoreData\TestScoreData\obj\Debug\TestScoreData.pdb
+J:\.Net Programming\TestScoreData\TestScoreData\obj\Debug\TestScoreData.csprojResolveAssemblyReference.cache
